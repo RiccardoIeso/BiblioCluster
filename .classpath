@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/caffeine-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/exp4j-0.4.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/gremlin-console-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/gremlin-core-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/gremlin-driver-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/gremlin-shaded-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/groovy-2.5.7-indy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/groovy-cli-picocli-2.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/groovy-console-2.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/groovy-groovysh-2.5.7-indy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/groovy-json-2.5.7-indy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/groovy-jsr223-2.5.7-indy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/groovy-swing-2.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/groovy-templates-2.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/groovy-xml-2.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/hppc-0.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/httpclient-4.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/ivy-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/javapoet-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/javatuples-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/jbcrypt-0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/jcabi-log-0.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/jcabi-manifests-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/jline-2.14.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/netty-all-4.1.36.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/picocli-3.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/ext/gremlin-groovy/lib/gremlin-groovy-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/ext/gremlin-groovy/plugin/gremlin-groovy-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/ext/tinkergraph-gremlin/lib/tinkergraph-gremlin-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/apache-tinkerpop-gremlin-console-3.4.4/ext/tinkergraph-gremlin/plugin/tinkergraph-gremlin-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/jar/json-20140107.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/jar/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/jar/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/jar/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/jar/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/jar/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ricca/Desktop/Tesi/jar/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
